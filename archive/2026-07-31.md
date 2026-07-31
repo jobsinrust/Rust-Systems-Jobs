@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Rust Systems Jobs — 2026
 
-<sub><small>Last updated: Jul 31, 2026 at 14:31 UTC</small></sub>
+<sub><small>Last updated: Jul 31, 2026 at 15:40 UTC</small></sub>
 
 Daily Rust systems engineering jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs).
