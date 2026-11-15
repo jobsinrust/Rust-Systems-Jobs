@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Rust Systems Jobs — 2026
 
-<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2026 at 18:47 UTC</small></sub>
 
 Daily Rust systems engineering jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs).
@@ -16,6 +16,7 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-principal-developer-platform-positioning-8161b7b0?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Principal, Developer Platform Positioning](https://jobsinrust.com/jobs/cloudflare-principal-developer-platform-positioning-8161b7b0?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Hybrid | On Site | Full Time | Nov 13 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-head-of-enterprise-sales-marketplaces-1461cdfa?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Head of Enterprise Sales, Marketplaces](https://jobsinrust.com/jobs/stripe-head-of-enterprise-sales-marketplaces-1461cdfa?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | US-Chicago, US-Seattle, US-San Francisco, US-Remote | Remote | Full Time | Nov 13 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-senior-associate-strategic-finance-030025c7?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Senior Associate, Strategic Finance](https://jobsinrust.com/jobs/mozilla-senior-associate-strategic-finance-030025c7?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Remote Canada | Remote | Full Time | Nov 13 |
+| **[Mozilla](https://jobsinrust.com/jobs/mozilla-senior-associate-strategic-finance-004c61bc?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Senior Associate, Strategic Finance](https://jobsinrust.com/jobs/mozilla-senior-associate-strategic-finance-004c61bc?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Remote US | Remote | Full Time | Nov 13 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-vp-mozilla-studio-223391f8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[VP, Mozilla Studio](https://jobsinrust.com/jobs/mozilla-vp-mozilla-studio-223391f8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Remote Canada; Remote Germany; Remote UK; Remote US | Remote | Full Time | Nov 13 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-software-engineer-vulnerability-management-16b0b4f1?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Software Engineer, Vulnerability Management](https://jobsinrust.com/jobs/stripe-software-engineer-vulnerability-management-16b0b4f1?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | na | On Site | Full Time | Nov 13 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-forward-deployed-engineer-041a6743?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Senior Forward Deployed Engineer](https://jobsinrust.com/jobs/cloudflare-senior-forward-deployed-engineer-041a6743?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Hybrid | On Site | Full Time | Nov 13 |
@@ -61,7 +62,6 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-technical-support-engineer-zero-trust-82401e42?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Technical Support Engineer, Zero Trust](https://jobsinrust.com/jobs/cloudflare-technical-support-engineer-zero-trust-82401e42?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Hybrid | On Site | Full Time | Nov 11 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-customer-success-manager-52fe8f9d?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Customer Success Manager](https://jobsinrust.com/jobs/stripe-customer-success-manager-52fe8f9d?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Sydney | On Site | Full Time | Nov 11 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-account-executive-commercial-and-smb-india-1d30fad8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Account Executive, Commercial & SMB (India)](https://jobsinrust.com/jobs/stripe-account-executive-commercial-and-smb-india-1d30fad8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Bangalore | On Site | Full Time | Nov 11 |
-| **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-browser-new-products-097fff3c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Staff Software Engineer, Browser (New Products)](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-browser-new-products-097fff3c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Remote Canada | Remote | Full Time | Nov 10 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-14 archive](archive/2026-11-14.md)
+- [2026-11-15 archive](archive/2026-11-15.md)
 
 ## About This Repository
 
