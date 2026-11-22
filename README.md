@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Rust Systems Jobs — 2026
 
-<sub><small>Last updated: Nov 21, 2026 at 19:09 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2026 at 19:32 UTC</small></sub>
 
 Daily Rust systems engineering jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-platform-engineer-replicate-675207a8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Senior Platform Engineer, Replicate](https://jobsinrust.com/jobs/cloudflare-senior-platform-engineer-replicate-675207a8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | In-Office | On Site | Full Time | Nov 21 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-systems-engineer-network-software-performance-0f243e2c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Systems Engineer - Network Software Performance](https://jobsinrust.com/jobs/cloudflare-systems-engineer-network-software-performance-0f243e2c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Hybrid | On Site | Full Time | Nov 21 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-systems-engineer-network-data-plane-software-996cf183?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Systems Engineer - Network Data Plane Software](https://jobsinrust.com/jobs/cloudflare-systems-engineer-network-data-plane-software-996cf183?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Hybrid | On Site | Full Time | Nov 21 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-systems-engineer-network-services-fbebfebd?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Senior Systems Engineer, Network Services](https://jobsinrust.com/jobs/cloudflare-senior-systems-engineer-network-services-fbebfebd?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Hybrid | On Site | Full Time | Nov 21 |
@@ -61,16 +62,15 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-head-of-zero-day-engineering-d3c10040?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Head of Zero Day Engineering](https://jobsinrust.com/jobs/cloudflare-head-of-zero-day-engineering-d3c10040?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Hybrid | On Site | Full Time | Nov 19 |
 | **[Robinhood](https://jobsinrust.com/jobs/robinhood-software-engineer-prime-a689def2?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Software Engineer, Prime](https://jobsinrust.com/jobs/robinhood-software-engineer-prime-a689def2?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | London, UK | On Site | Full Time | Nov 19 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-account-executive-start-ups-7e6185dc?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Account Executive, Start Ups](https://jobsinrust.com/jobs/cloudflare-account-executive-start-ups-7e6185dc?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Hybrid | On Site | Full Time | Nov 19 |
-| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-software-engineer-data-primitives-61e73b05?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | **[Software Engineer, Data Primitives](https://jobsinrust.com/jobs/cloudflare-software-engineer-data-primitives-61e73b05?utm_source=github&utm_medium=repo&utm_campaign=github-rust-systems-jobs)** | Hybrid | On Site | Full Time | Nov 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 7 companies | 21 salary ranges listed
+**Current Stats:** 50 jobs | 24% remote | 7 companies | 20 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-21 archive](archive/2026-11-21.md)
+- [2026-11-22 archive](archive/2026-11-22.md)
 
 ## About This Repository
 
